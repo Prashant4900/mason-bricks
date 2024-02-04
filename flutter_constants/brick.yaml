@@ -1,5 +1,6 @@
 name: flutter_constants
 description: A new brick created with the Mason CLI.
+repository: https://github.com/Prashant4900/mason-bricks/tree/main/flutter_constants
 
 version: 0.1.0+1
 
